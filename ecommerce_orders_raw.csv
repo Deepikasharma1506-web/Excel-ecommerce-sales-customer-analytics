@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Region,City,Sales_Channel,Category,Product,Quantity,Unit_Price_INR,Discount_Rate,Estimated_Cost_INR,Payment_Method,Order_Status
+ORD-00001,2025-09-04,CUST-0163,South,Chennai,Marketplace,Beauty,Face Wash,4,1155.0,0.02,1940.4,Net Banking,Delivered
+ORD-00002,2025-07-06,CUST-0006,East,Bhubaneswar,Social Media,Home & Kitchen,Water Bottle,2,602.09,0.08,626.17,Cash on Delivery,Delivered
+ORD-00003,2025-03-12,CUST-0037,East,Kolkata,Marketplace,Beauty,Face Wash,4,1951.88,0.08,3279.16,Debit Card,Delivered
+ORD-00004,2025-12-20,CUST-0017,South,Bengaluru,Retail Store,Home & Kitchen,Bedsheet,5,2937.26,0.15,7636.88,Cash on Delivery,Delivered
+ORD-00005,2025-04-02,CUST-0073,Central,Indore,Mobile App,Beauty,Moisturizer,1,1229.54,0.1,516.41,Cash on Delivery,Delivered
+ORD-00006,2025-06-02,CUST-0059,South,Bengaluru,Mobile App,Home & Kitchen,Water Bottle,4,4425.52,0.02,9205.08,Cash on Delivery,Delivered
+ORD-00007,2025-09-06,CUST-0145,West,Surat,Website,Books,Business Book,1,168.35,0.15,75.76,Debit Card,Delivered
+ORD-00008,2025-02-17,CUST-0156,East,Kolkata,Retail Store,Home & Kitchen,Desk Lamp,1,3419.76,0.15,1778.28,UPI,Delivered
+ORD-00009,2025-09-05,CUST-0090,East,Guwahati,Marketplace,Beauty,Hair Serum,2,1591.06,0.02,1336.49,Debit Card,Delivered
+ORD-00010,2025-06-21,CUST-0106,East,Kolkata,Mobile App,Fashion,Sneakers,2,1792.86,0.05,1721.15,UPI,Delivered
+ORD-00011,2025-11-05,CUST-0154,North,Dehradun,Retail Store,Books,Exam Guide,1,151.48,0.0,68.17,Credit Card,Delivered
+ORD-00012,2025-05-31,CUST-0084,South,Chennai,Website,Electronics,Power Bank,1,15289.56,0.1,11008.48,Cash on Delivery,Delivered
+ORD-00013,2025-11-30,CUST-0091,Central,Indore,Social Media,Books,Programming Book,3,179.52,0.02,242.35,Cash on Delivery,Delivered
+ORD-00014,2025-07-23,CUST-0018,East,Bhubaneswar,Mobile App,Beauty,Face Wash,3,366.29,0.0,461.53,Credit Card,Returned
+ORD-00015,2025-08-31,CUST-0079,Central,Nagpur,Social Media,Home & Kitchen,Desk Lamp,5,2040.9,0.05,5306.34,Debit Card,Delivered
+ORD-00016,2025-09-24,CUST-0171,East,Bhubaneswar,Marketplace,Beauty,Sunscreen,2,805.56,0.0,676.67,Credit Card,Delivered
+ORD-00017,2025-08-25,CUST-0072,South,Kochi,Mobile App,Electronics,Power Bank,3,12374.59,0.05,26729.11,UPI,Delivered
+ORD-00018,2025-11-18,CUST-0075,North, Dehradun ,Marketplace,Electronics,Power Bank,5,4748.5,0.02,17094.6,Debit Card,Delivered
+ORD-00019,2025-09-02,CUST-0102,Central,Indore,Mobile App,Home & Kitchen,Bedsheet,2,3407.02,0.0,3543.3,Cash on Delivery,Delivered
+ORD-00020,2025-08-22,CUST-0092,North,Jaipur,Website,Home & Kitchen,Desk Lamp,3,1712.54,0.0,2671.56,Debit Card,Delivered
+ORD-00021,2025-01-05,CUST-0043,East,Kolkata,Retail Store,Beauty,Hair Serum,2,967.34,0.0,812.57,Debit Card,Delivered
+ORD-00022,2025-05-19,CUST-0144,Central,Raipur,Social Media,Books,Exam Guide,2,438.32,0.1,394.49,UPI,Delivered
+ORD-00023,2025-08-14,CUST-0029,West,Pune,Retail Store,Home & Kitchen,Water Bottle,1,4753.89,0.08,2472.02,Net Banking,Delivered
+ORD-00024,2025-11-13,CUST-0096,North,Jaipur,Retail Store,Home & Kitchen,Cookware Set,4,2297.57,0.08,4778.95,Debit Card,Delivered
+ORD-00025,2025-07-04,CUST-0115,West,Ahmedabad,Social Media,Books,Business Book,3,1473.9,0.0,1989.77,Debit Card,Cancelled
+ORD-00026,2025-04-13,CUST-0117,West,Pune,Marketplace,Books,Fiction Novel,4,493.82,0.02,888.88,Credit Card,Delivered
+ORD-00027,2025-05-31,CUST-0165,North,Delhi,Marketplace,Home & Kitchen,Bedsheet,4,3689.69,0.08,7674.56,Net Banking,Delivered
+ORD-00028,2025-04-21,CUST-0177,North,Dehradun,Marketplace,Electronics,Wireless Earbuds,1,16070.17,0.02,11570.52,UPI,Delivered
+ORD-00029,2025-02-23,CUST-0117,North,Dehradun,Marketplace,Beauty,Sunscreen,1,1282.43,0.1,538.62,UPI,Delivered
+ORD-00030,2025-08-31,CUST-0163,North,Chandigarh,Retail Store,Fashion,Backpack,5,6050.04,0.02,14520.1,UPI,Delivered
+ORD-00031,2025-11-10,CUST-0021,West,Mumbai,Website,Home & Kitchen,Water Bottle,2,830.45,0.02,863.67,Debit Card,Cancelled
+ORD-00032,2025-01-19,CUST-0001,East,Guwahati,Website,Beauty,Face Wash,4,767.62,0.02,1289.6,Credit Card,Delivered
+ORD-00033,2025-11-06,CUST-0055,Central,Bhopal,Mobile App,Books,Programming Book,3,1254.83,0.1,1694.02,Cash on Delivery,Delivered
+ORD-00034,2025-12-21,CUST-0145,West,Ahmedabad,Retail Store,Home & Kitchen,Storage Box,1,2070.56,0.1,1076.69,Cash on Delivery,Cancelled
+ORD-00035,2025-11-05,CUST-0089,West,Surat,Mobile App,Beauty,Moisturizer,3,297.13,0.0,374.38,Cash on Delivery,Delivered
+ORD-00036,2025-03-14,CUST-0002,South,Chennai,Retail Store,Electronics,Bluetooth Speaker,4,10401.88,0.1,29957.41,Credit Card,Delivered
+ORD-00037,2025-08-22,CUST-0175,North,Chandigarh,Website,Electronics,Bluetooth Speaker,3,3584.88,0.0,7743.34,Cash on Delivery,Delivered
+ORD-00038,2025-03-14,CUST-0043,East,Bhubaneswar,Retail Store,Home & Kitchen,Storage Box,2,3767.48,0.08,3918.18,UPI,Delivered
+ORD-00039,2025-09-30,CUST-0089,South,Chennai,Website,Books,Fiction Novel,3,1255.27,0.0,1694.61,Net Banking,Delivered
+ORD-00040,2025-07-13,CUST-0128,South,Bengaluru,Mobile App,Beauty,Lip Balm,2,1024.37,0.05,860.47,Credit Card,Delivered
+ORD-00041,2025-07-23,CUST-0179,North,Delhi,Mobile App,Electronics,Smartwatch,4,9892.87,0.15,28491.47,Credit Card,Delivered
+ORD-00042,2025-02-13,CUST-0136,North,Delhi,Marketplace,Books,Programming Book,1,486.76,0.15,219.04,Net Banking,Delivered
+ORD-00043,2025-05-08,CUST-0007,South,Hyderabad,Mobile App,Beauty,Lip Balm,1,1537.0,0.1,645.54,Cash on Delivery,Cancelled
+ORD-00044,2025-02-01,CUST-0085,South,Hyderabad,,Electronics,Smartwatch,1,8344.42,0.05,6007.98,Cash on Delivery,Delivered
+ORD-00045,2025-07-02,CUST-0138,South,Chennai,Marketplace,Beauty,Moisturizer,2,205.0,0.0,172.2,Cash on Delivery,Delivered
+ORD-00046,2025-03-21,CUST-0085,South,Bengaluru,Marketplace,Books,Notebook Set,5,965.1,0.08,2171.47,Cash on Delivery,Cancelled
+ORD-00047,2025-11-30,CUST-0098,South,Hyderabad,Marketplace,Home & Kitchen,Storage Box,2,1657.79,0.08,1724.1,Net Banking,Delivered
+ORD-00048,2025-12-15,CUST-0157,Central,Indore,Social Media,Electronics,Smartwatch,2,13761.6,0.05,19816.7,UPI,Delivered
+ORD-00049,2025-06-21,CUST-0113,East,Kolkata,Marketplace,Fashion,Jeans,1,5394.85,0.0,2589.53,Credit Card,Delivered
+ORD-00050,2025-04-02,CUST-0166,South,Bengaluru,Website,Beauty,Lip Balm,2,1825.03,0.05,1533.03,Net Banking,Delivered
+ORD-00051,2025-10-21,CUST-0061,West,Pune,Retail Store,Books,Exam Guide,1,559.74,0.0,251.88,Net Banking,Delivered
+ORD-00052,2025-04-06,CUST-0119,East,Bhubaneswar,Mobile App,Home & Kitchen,Water Bottle,1,3297.84,0.0,1714.88,UPI,Delivered
+ORD-00053,2025-02-06,CUST-0176,Central,Bhopal,Mobile App,Books,Notebook Set,1,941.9,0.05,423.86,Credit Card,Delivered
+ORD-00054,2025-08-31,CUST-0178,East,Kolkata,Mobile App,Books,Notebook Set,3,508.4,0.02,686.34,UPI,Delivered
+ORD-00055,2025-04-02,CUST-0058,East,Patna,Marketplace,Beauty,Face Wash,5,512.14,0.02,1075.49,UPI,Cancelled
+ORD-00056,2025-08-06,CUST-0112,North,Chandigarh,Social Media,Home & Kitchen,Storage Box,3,2969.96,0.15,4633.14,Cash on Delivery,Delivered
+ORD-00057,2025-05-12,CUST-0134,Central,Nagpur,Marketplace,Home & Kitchen,Desk Lamp,3,3526.88,0.15,5501.93,Debit Card,Returned
+ORD-00058,2025-01-23,CUST-0042,Central,Indore,Social Media,Electronics,USB-C Hub,1,2075.76,0.0,1494.55,Debit Card,Delivered
+ORD-00059,2025-05-14,CUST-0139,South,Bengaluru,Mobile App,Electronics,USB-C Hub,4,10351.39,0.05,29812.0,Credit Card,Delivered
+ORD-00060,2025-01-31,CUST-0107,South,Kochi,Retail Store,Fashion,Sneakers,1,1874.52,0.02,899.77,Credit Card,Delivered
+ORD-00061,2025-09-26,CUST-0024,West,Surat,Marketplace,Electronics,Wireless Earbuds,2,15077.21,0.1,21711.18,Credit Card,Delivered
+ORD-00062,2025-04-19,CUST-0103,South,Chennai,Social Media,Fashion,Hoodie,5,3745.87,0.02,8990.09,Debit Card,Delivered
+ORD-00063,2025-01-30,CUST-0029,East,Patna,Mobile App,Electronics,Bluetooth Speaker,5,1105.2,0.0,3978.72,UPI,Delivered
+ORD-00064,2025-07-22,CUST-0105,East,Patna,Mobile App,Fashion,Hoodie,4,5468.18,0.05,10498.91,UPI,Delivered
+ORD-00065,2025-07-09,CUST-0135,South,Bengaluru,Social Media,Fashion,Hoodie,4,779.07,0.0,1495.81,Net Banking,Delivered
+ORD-00066,2025-06-12,CUST-0153,South,Bengaluru,Website,Electronics,Wireless Earbuds,3,14006.49,0.08,30254.02,Net Banking,Cancelled
+ORD-00067,2025-08-10,CUST-0126,North,Delhi,Social Media,Electronics,Wireless Earbuds,4,3531.46,0.1,10170.6,UPI,Delivered
+ORD-00068,2025-08-02,CUST-0013,South,Hyderabad,Mobile App,Beauty,Moisturizer,5,466.68,0.08,980.03,Cash on Delivery,Delivered
+ORD-00069,2025-07-30,CUST-0045,Central,Bhopal,Retail Store,Home & Kitchen,Bedsheet,5,4655.01,0.15,12103.03,Net Banking,Delivered
+ORD-00070,2025-06-26,CUST-0123,North,Jaipur,Marketplace,Electronics,USB-C Hub,1,4372.35,0.0,3148.09,Debit Card,Delivered
+ORD-00071,2025-01-02,CUST-0037,Central,Indore,Website,Books,Fiction Novel,4,1027.3,0.15,1849.14,Credit Card,Delivered
+ORD-00072,2025-08-08,CUST-0040,West,Mumbai,Marketplace,Beauty,Sunscreen,3,563.99,0.05,710.63,Debit Card,Delivered
+ORD-00073,2025-05-07,CUST-0107,North,Delhi,Social Media,Books,Programming Book,1,1002.21,0.08,450.99,Cash on Delivery,Delivered
+ORD-00074,2025-03-05,CUST-0165,East,Guwahati,Marketplace,Fashion,T-Shirt,5,1447.84,0.1,3474.82,UPI,Delivered
+ORD-00075,2025-08-21,CUST-0106,West,Pune,Mobile App,Electronics,Smartwatch,3,14245.19,0.15,30769.61,Cash on Delivery,Delivered
+ORD-00076,2025-12-15,CUST-0053,East,Kolkata,Website,Beauty,Hair Serum,2,342.54,0.02,287.73,Net Banking,Delivered
+ORD-00077,2025-06-24,CUST-0136,North,Dehradun,Retail Store,Beauty,Lip Balm,5,693.56,0.0,1456.48,Credit Card,Delivered
+ORD-00078,2025-10-27,CUST-0127,West,Ahmedabad,Social Media,Fashion,T-Shirt,2,5731.98,0.0,5502.7,Cash on Delivery,Delivered
+ORD-00079,2025-08-04,CUST-0081,East,Patna,Mobile App,Books,Programming Book,3,964.77,0.0,1302.44,Credit Card,Delivered
+ORD-00080,2025-06-20,CUST-0164,East,Bhubaneswar,Marketplace,Electronics,USB-C Hub,4,11544.53,0.08,33248.25,Net Banking,Delivered
+ORD-00081,2025-12-20,CUST-0064,North,Dehradun,Retail Store,Fashion,Sneakers,1,766.8,0.08,368.06,UPI,Delivered
+ORD-00082,2025-06-27,CUST-0172,West,Ahmedabad,Marketplace,Home & Kitchen,Bedsheet,4,2389.05,0.15,4969.22,Credit Card,Cancelled
+ORD-00083,2025-07-03,CUST-0047,East,Guwahati,Mobile App,Home & Kitchen,Storage Box,1,1995.69,0.05,1037.76,Net Banking,Delivered
+ORD-00084,2025-07-16,CUST-0014,North,Dehradun,Social Media,Home & Kitchen,Cookware Set,1,2686.38,0.0,1396.92,Debit Card,Delivered
+ORD-00085,2025-05-03,CUST-0151,Central,Bhopal,Retail Store,Beauty,Sunscreen,1,2092.05,0.02,878.66,Cash on Delivery,Delivered
+ORD-00086,2025-06-20,CUST-0121,North,Jaipur,Mobile App,Books,Fiction Novel,5,829.04,0.05,1865.34,Cash on Delivery,Delivered
+ORD-00087,2025-08-27,CUST-0067,Central,Nagpur,Marketplace,Home & Kitchen,Water Bottle,3,4854.7,0.08,7573.33,UPI,Delivered
+ORD-00088,2025-06-14,CUST-0063,South,Bengaluru,Marketplace,Books,Notebook Set,2,204.39,0.02,183.95,Debit Card,Delivered
+ORD-00089,2025-05-10,CUST-0102,West,Surat,Retail Store,Beauty,Face Wash,4,835.15,0.02,1403.05,UPI,Delivered
+ORD-00090,2025-01-27,CUST-0126,South,Bengaluru,Marketplace,Home & Kitchen,Bedsheet,2,1304.97,0.15,1357.17,Debit Card,Delivered
+ORD-00091,2025-04-27,CUST-0102,Central,Indore,Website,Beauty,Lip Balm,4,823.59,0.08,1383.63,Debit Card,Delivered
+ORD-00092,2025-03-25,CUST-0051,Central,Bhopal,Website,Electronics,Smartwatch,1,17763.16,0.15,12789.48,Cash on Delivery,Delivered
+ORD-00093,2025-06-18,CUST-0124,West,Surat,Retail Store,Beauty,Hair Serum,5,2025.25,0.02,4253.02,Net Banking,Delivered
+ORD-00094,2025-04-07,CUST-0105,East,Kolkata,Website,Books,Fiction Novel,3,1213.82,0.05,1638.66,Credit Card,Delivered
+ORD-00095,2025-01-17,CUST-0005,East,Kolkata,Social Media,Home & Kitchen,Water Bottle,1,3760.41,0.1,1955.41,Cash on Delivery,Delivered
+ORD-00096,2025-07-06,CUST-0056,East,Bhubaneswar,Website,Home & Kitchen,Desk Lamp,3,3549.41,0.1,5537.08,Credit Card,Delivered
+ORD-00097,2025-07-08,CUST-0106,West,Surat,Marketplace,Electronics,Power Bank,1,15390.49,0.15,11081.15,Cash on Delivery,Delivered
+ORD-00098,2025-01-11,CUST-0162,Central,Indore,Website,Home & Kitchen,Storage Box,2,2384.6,0.0,2479.98,Credit Card,Delivered
+ORD-00099,2025-05-01,CUST-0161,North,Chandigarh,Marketplace,Electronics,Smartwatch,5,11895.13,0.1,42822.47,Cash on Delivery,Returned
+ORD-00100,2025-09-13,CUST-0019,South,Chennai,Marketplace,Beauty,Hair Serum,1,896.66,0.15,376.6,UPI,Delivered
+ORD-00101,2025-11-09,CUST-0180,North,Delhi,Social Media,Books,Fiction Novel,5,812.53,0.1,1828.19,UPI,Delivered
+ORD-00102,2025-10-06,CUST-0159,East,Patna,Retail Store,Electronics,Smartwatch,5,13438.03,0.15,48376.91,Credit Card,Delivered
+ORD-00103,2025-07-06,CUST-0066,East,Bhubaneswar,Mobile App,Home & Kitchen,Desk Lamp,3,3700.91,0.02,5773.42,Credit Card,Delivered
+ORD-00104,2025-11-24,CUST-0088,West,Pune,Website,Books,Business Book,1,579.48,0.0,260.77,Credit Card,Delivered
+ORD-00105,2025-02-01,CUST-0124,North,Delhi,Social Media,Books,Exam Guide,2,479.27,0.02,431.34,Cash on Delivery,Delivered
+ORD-00106,2025-01-29,CUST-0015,East,Bhubaneswar,Social Media,Fashion,Hoodie,3,3143.35,0.08,4526.42,Net Banking,Delivered
+ORD-00107,2025-11-21,CUST-0066,West,Ahmedabad,Marketplace,Home & Kitchen,Bedsheet,4,3529.43,0.08,7341.21,Debit Card,Delivered
+ORD-00108,2025-09-19,CUST-0034,Central,Nagpur,Social Media,Electronics,Bluetooth Speaker,2,13748.8,0.0,19798.27,Credit Card,Returned
+ORD-00109,2025-05-02,CUST-0101,North,Jaipur,Marketplace,Home & Kitchen,Cookware Set,5,4400.52,0.02,11441.35,UPI,Delivered
+ORD-00110,2025-09-15,CUST-0086,West,Pune,Retail Store,Beauty,Lip Balm,3,2095.63,0.1,2640.49,Credit Card,Delivered
+ORD-00111,2025-05-31,CUST-0045,North,Dehradun,Retail Store,Books,Notebook Set,1,1207.51,0.1,543.38,Debit Card,Delivered
+ORD-00112,2025-02-03,CUST-0082,South,Chennai,Marketplace,Beauty,Sunscreen,3,1372.22,0.08,1729.0,Credit Card,Delivered
+ORD-00113,2025-08-30,CUST-0092,North,Delhi,Website,Fashion,Backpack,5,2218.88,0.05,5325.31,Debit Card,Delivered
+ORD-00114,2025-11-19,CUST-0125,Central,Indore,Social Media,Books,Business Book,4,967.07,0.02,1740.73,Net Banking,Delivered
+ORD-00115,2025-01-08,CUST-0163,South,Chennai,Mobile App,Fashion,Jeans,1,2411.03,0.02,1157.29,UPI,Delivered
+ORD-00116,2025-09-13,CUST-0138,East,Patna,Retail Store,Fashion,Jeans,1,4712.54,0.0,2262.02,Credit Card,Delivered
+ORD-00117,2025-05-05,CUST-0169,Central,Indore,Mobile App,Beauty,Moisturizer,1,2171.86,0.08,912.18,UPI,Delivered
+ORD-00118,2025-08-10,CUST-0101,West,Ahmedabad,Retail Store,Fashion,Hoodie,4,2853.27,0.1,5478.28,Credit Card,Returned
+ORD-00119,2025-06-10,CUST-0104,East,Guwahati,Website,Books,Notebook Set,1,347.52,0.08,156.38,Cash on Delivery,Delivered
+ORD-00120,2025-03-07,CUST-0110,Central, Nagpur ,Retail Store,Home & Kitchen,Bedsheet,2,4123.32,0.05,4288.25,UPI,Delivered
+ORD-00121,2025-12-22,CUST-0095,East,Kolkata,Retail Store,Fashion,Sneakers,1,6041.95,0.02,2900.14,UPI,Delivered
+ORD-00122,2025-09-29,CUST-0174,Central,Nagpur,Social Media,Fashion,Hoodie,1,6045.4,0.0,2901.79,Debit Card,Delivered
+ORD-00123,2025-06-25,CUST-0169,North,Jaipur,Social Media,Electronics,Smartwatch,4,7464.5,0.0,21497.76,Cash on Delivery,Delivered
+ORD-00124,2025-06-27,CUST-0164,South,Kochi,Mobile App,Fashion,T-Shirt,5,4756.25,0.08,11415.0,Net Banking,Delivered
+ORD-00125,2025-07-27,CUST-0125,South,Chennai,Website,Beauty,Moisturizer,1,2189.17,0.0,919.45,Cash on Delivery,Delivered
+ORD-00126,2025-08-07,CUST-0092,Central,Bhopal,Website,Books,Exam Guide,5,363.86,0.1,818.69,Cash on Delivery,Delivered
+ORD-00127,2025-03-26,CUST-0092,West,Surat,Retail Store,Books,Notebook Set,1,1390.74,0.08,625.83,Debit Card,Delivered
+ORD-00128,2025-03-26,CUST-0046,South,Hyderabad,Marketplace,Beauty,Moisturizer,5,1680.64,0.02,3529.34,UPI,Delivered
+ORD-00129,2025-05-20,CUST-0047,East,Bhubaneswar,Mobile App,Beauty,Hair Serum,1,1332.86,0.15,559.8,Debit Card,Delivered
+ORD-00130,2025-06-25,CUST-0179,South,Bengaluru,Marketplace,Books,Notebook Set,1,1606.85,0.15,723.08,Cash on Delivery,Delivered
+ORD-00131,2025-01-12,CUST-0063,West,Pune,Social Media,Books,Notebook Set,2,892.58,0.02,803.32,Credit Card,Delivered
+ORD-00132,2025-02-22,CUST-0107,West,Ahmedabad,Retail Store,Beauty,Moisturizer,1,402.42,0.1,169.02,Debit Card,Delivered
+ORD-00133,2025-08-02,CUST-0040,North,Delhi,Mobile App,Books,Programming Book,4,1140.44,0.08,2052.79,Debit Card,Delivered
+ORD-00134,2025-05-13,CUST-0077,South,Hyderabad,Social Media,Home & Kitchen,Desk Lamp,3,3535.82,0.08,5515.88,Credit Card,Cancelled
+ORD-00135,2025-10-08,CUST-0080,East,Bhubaneswar,Social Media,Home & Kitchen,Cookware Set,4,391.9,0.08,815.15,Credit Card,Returned
+ORD-00136,2025-11-15,CUST-0101,East,Kolkata,Website,Books,Exam Guide,1,709.31,0.0,319.19,Cash on Delivery,Delivered
+ORD-00137,2025-07-02,CUST-0117,North,Chandigarh,Social Media,Fashion,T-Shirt,2,600.87,0.1,576.84,Cash on Delivery,Delivered
+ORD-00138,2025-05-19,CUST-0082,North,Delhi,Mobile App,Electronics,Smartwatch,3,728.34,0.05,1573.21,Debit Card,Delivered
+ORD-00139,2025-11-03,CUST-0077,West,Surat,Retail Store,Books,Notebook Set,3,1496.66,0.05,2020.49,Cash on Delivery,Delivered
+ORD-00140,2025-03-26,CUST-0106,Central,Indore,Retail Store,Beauty,Sunscreen,1,244.55,0.05,102.71,UPI,Delivered
+ORD-00141,2025-12-10,CUST-0011,West,Surat,Retail Store,Books,Fiction Novel,3,659.35,0.02,890.12,Credit Card,Delivered
+ORD-00142,2025-11-25,CUST-0039,North,Jaipur,Marketplace,Books,Business Book,1,359.25,0.15,161.66,Net Banking,Delivered
+ORD-00143,2025-04-06,CUST-0074,West,Mumbai,Retail Store,Beauty,Lip Balm,1,350.54,0.0,147.23,Net Banking,Delivered
+ORD-00144,2025-07-12,CUST-0080,West,Ahmedabad,Retail Store,Books,Notebook Set,2,1328.57,0.0,1195.71,Debit Card,Cancelled
+ORD-00145,2025-12-17,CUST-0121,East,Guwahati,Mobile App,Beauty,Hair Serum,3,2163.56,0.0,2726.09,Net Banking,Returned
+ORD-00146,2025-03-13,CUST-0114,West,Pune,Marketplace,Fashion,Jeans,2,2037.61,0.15,1956.11,Cash on Delivery,Returned
+ORD-00147,2025-10-29,CUST-0139,South,Kochi,Social Media,Beauty,Lip Balm,2,854.75,0.1,717.99,Net Banking,Delivered
+ORD-00148,2025-03-07,CUST-0034,Central,Indore,Social Media,Fashion,Jeans,2,2974.88,0.02,2855.88,Credit Card,Cancelled
+ORD-00149,2025-05-22,CUST-0180,West,Surat,Mobile App,Fashion,Sneakers,4,505.37,0.1,970.31,Cash on Delivery,Delivered
+ORD-00150,2025-06-07,CUST-0072,West,Surat,Retail Store,Beauty,Moisturizer,4,830.21,0.1,1394.75,Credit Card,Delivered
+ORD-00151,2025-01-27,CUST-0060,East,Kolkata,Social Media,Beauty,Hair Serum,1,1301.94,0.15,546.81,Debit Card,Delivered
+ORD-00152,2025-09-15,CUST-0118,Central,Bhopal,Mobile App,Electronics,Smartwatch,2,11172.22,0.02,16088.0,Credit Card,Delivered
+ORD-00153,2025-10-26,CUST-0094,Central,Indore,Website,Fashion,T-Shirt,2,5980.45,0.05,5741.23,Debit Card,Delivered
+ORD-00154,2025-07-22,CUST-0162,South,Bengaluru,Social Media,Books,Fiction Novel,3,1299.53,0.15,1754.37,Net Banking,Delivered
+ORD-00155,2025-06-04,CUST-0130,East,Guwahati,Website,Books,Business Book,3,1275.82,0.08,1722.36,Debit Card,Delivered
+ORD-00156,2025-08-30,CUST-0074,North,Delhi,Marketplace,Home & Kitchen,Cookware Set,1,904.26,0.0,470.22,Debit Card,Delivered
+ORD-00157,2025-08-25,CUST-0154,East,Patna,Social Media,Books,Exam Guide,5,503.44,0.02,1132.74,Net Banking,Delivered
+ORD-00158,2025-04-06,CUST-0113,Central,Nagpur,Marketplace,Beauty,Hair Serum,1,1465.52,0.1,615.52,Net Banking,Delivered
+ORD-00159,2025-09-16,CUST-0039,East,Patna,Social Media,Fashion,Sneakers,5,3715.04,0.02,8916.1,Credit Card,Delivered
+ORD-00160,2025-06-14,CUST-0173,East,Patna,Retail Store,Electronics,Power Bank,3,13977.09,0.05,30190.51,UPI,Delivered
+ORD-00161,2025-03-27,CUST-0020,West,Mumbai,Website,Fashion,Jeans,5,1798.88,0.05,4317.31,Debit Card,Delivered
+ORD-00162,2025-12-31,CUST-0085,North,Delhi,Marketplace,Electronics,Bluetooth Speaker,1,14704.14,0.08,10586.98,Credit Card,Delivered
+ORD-00163,2025-09-29,CUST-0156,South,Kochi,Retail Store,Fashion,T-Shirt,3,1754.22,0.15,2526.08,Debit Card,Delivered
+ORD-00164,2025-02-15,CUST-0137,South,Bengaluru,Social Media,Beauty,Hair Serum,2,1390.34,0.05,1167.89,Net Banking,Delivered
+ORD-00165,2025-02-01,CUST-0162,West,Pune,Website,Books,Fiction Novel,3,460.42,0.08,621.57,Debit Card,Delivered
+ORD-00166,2025-10-08,CUST-0159,East,Kolkata,Marketplace,Fashion,Sneakers,1,3715.68,0.05,1783.53,UPI,Delivered
+ORD-00167,2025-05-01,CUST-0080,East,Patna,Mobile App,Electronics,USB-C Hub,5,15255.12,0.02,54918.43,Debit Card,Delivered
+ORD-00168,2025-01-11,CUST-0083,South,Chennai,Website,Electronics,USB-C Hub,5,8518.54,0.02,30666.74,UPI,Delivered
+ORD-00169,2025-10-22,CUST-0163,East,Patna,Mobile App,Books,Programming Book,4,732.01,0.1,1317.62,Credit Card,Delivered
+ORD-00170,2025-02-06,CUST-0104,North,Chandigarh,Website,Books,Notebook Set,2,1190.32,0.0,1071.29,Credit Card,Delivered
+ORD-00171,2025-04-15,CUST-0077,North,Jaipur,Retail Store,Home & Kitchen,Bedsheet,2,1825.92,0.15,1898.96,Credit Card,Delivered
+ORD-00172,2025-03-26,CUST-0086,South,Bengaluru,Social Media,Fashion,Backpack,4,3194.26,0.1,6132.98,UPI,Delivered
+ORD-00173,2025-08-25,CUST-0178,South,Hyderabad,Marketplace,Books,Programming Book,3,384.03,0.05,518.44,Net Banking,Cancelled
+ORD-00174,2025-08-15,CUST-0023,South,Kochi,Website,Beauty,Hair Serum,5,617.18,0.15,1296.08,Net Banking,Delivered
+ORD-00175,2025-06-09,CUST-0124,Central,Nagpur,Marketplace,Fashion,Hoodie,1,3824.69,0.05,1835.85,Debit Card,Cancelled
+ORD-00176,2025-09-16,CUST-0107,Central,Nagpur,Retail Store,Beauty,Moisturizer,2,1951.35,0.0,1639.13,Credit Card,Delivered
+ORD-00177,2025-12-26,CUST-0142,South,Chennai,Social Media,Electronics,Wireless Earbuds,3,10647.45,0.0,22998.49,Cash on Delivery,Delivered
+ORD-00178,2025-08-13,CUST-0005,West,Mumbai,Website,Beauty,Lip Balm,1,1321.37,0.08,554.98,Cash on Delivery,Delivered
+ORD-00179,2025-09-16,CUST-0159,North,Jaipur,Social Media,Electronics,Smartwatch,2,9671.57,0.02,13927.06,Cash on Delivery,Delivered
+ORD-00180,2025-05-11,CUST-0120,Central,Bhopal,Marketplace,Home & Kitchen,Storage Box,2,4120.27,0.1,4285.08,Net Banking,Delivered
+ORD-00181,2025-10-06,CUST-0145,South,Bengaluru,Mobile App,Beauty,Face Wash,2,950.75,0.02,798.63,UPI,Returned
+ORD-00182,2025-09-09,CUST-0145,East,Patna,Social Media,Electronics,Bluetooth Speaker,3,11371.2,0.05,24561.79,UPI,Delivered
+ORD-00183,2025-08-26,CUST-0031,North,Chandigarh,Mobile App,Beauty,Face Wash,5,1842.04,0.0,3868.28,Cash on Delivery,Delivered
+ORD-00184,2025-06-17,CUST-0171,East,Kolkata,Marketplace,Electronics,USB-C Hub,1,6772.17,0.02,4875.96,UPI,Delivered
+ORD-00185,2025-11-22,CUST-0159,West,Pune,Mobile App,Books,Programming Book,3,1638.12,0.08,2211.46,Net Banking,Returned
+ORD-00186,2025-09-05,CUST-0124,Central,Indore,Marketplace,Fashion,Hoodie,3,2156.33,0.08,3105.12,UPI,Cancelled
+ORD-00187,2025-06-27,CUST-0060,Central,Indore,Mobile App,Fashion,Jeans,4,537.47,0.15,1031.94,Net Banking,Delivered
+ORD-00188,2025-09-30,CUST-0045,South,Chennai,Website,Beauty,Face Wash,5,1781.28,0.0,3740.69,Credit Card,Delivered
+ORD-00189,2025-09-09,CUST-0021,East,Patna,Retail Store,Books,Notebook Set,4,1138.79,0.0,2049.82,Net Banking,Delivered
+ORD-00190,2025-02-26,CUST-0142,East,Kolkata,Website,Electronics,Bluetooth Speaker,3,6877.61,0.02,14855.64,Cash on Delivery,Delivered
+ORD-00191,2025-08-24,CUST-0019,Central,Indore,Retail Store,Electronics,Smartwatch,1,8845.52,0.0,6368.77,UPI,Delivered
+ORD-00192,2025-04-05,CUST-0151,West,Surat,Website,Fashion,Jeans,1,5416.76,0.15,2600.04,Debit Card,Delivered
+ORD-00193,2025-01-16,CUST-0014,Central,Nagpur,Website,Beauty,Moisturizer,5,1501.85,0.02,3153.88,Net Banking,Delivered
+ORD-00194,2025-06-27,CUST-0060,West,Ahmedabad,Mobile App,Books,Exam Guide,2,865.24,0.05,778.72,Credit Card,Delivered
+ORD-00195,2025-03-13,CUST-0082,South,Chennai,Retail Store,Books,Notebook Set,5,1196.11,0.15,2691.25,Credit Card,Delivered
+ORD-00196,2025-11-25,CUST-0101,East,Patna,Mobile App,Books,Business Book,3,748.77,0.15,1010.84,Cash on Delivery,Delivered
+ORD-00197,2025-07-19,CUST-0124,East,Patna,Retail Store,Home & Kitchen,Cookware Set,1,928.69,0.02,482.92,Cash on Delivery,Delivered
+ORD-00198,2025-10-03,CUST-0135,South,Chennai,Social Media,Home & Kitchen,Cookware Set,4,3046.46,0.05,6336.64,Credit Card,Delivered
+ORD-00199,2025-06-11,CUST-0067,South,Bengaluru,Retail Store,Books,Exam Guide,2,1547.2,0.02,1392.48,Debit Card,Delivered
+ORD-00200,2025-05-18,CUST-0149,East,Bhubaneswar,Website,Fashion,Backpack,1,2974.36,0.05,1427.69,Cash on Delivery,Delivered
+ORD-00201,2025-05-08,CUST-0030,South,Hyderabad,Mobile App,Books,Programming Book,3,1743.39,0.15,2353.58,Cash on Delivery,Delivered
+ORD-00202,2025-10-04,CUST-0168,West,Mumbai,Retail Store,Beauty,Lip Balm,5,1891.96,0.1,3973.12,Credit Card,Delivered
+ORD-00203,2025-04-22,CUST-0075,South,Bengaluru,Social Media,Electronics,Power Bank,5,3282.71,0.1,11817.76,UPI,Delivered
+ORD-00204,2025-02-06,CUST-0163,West,Pune,Retail Store,Fashion,T-Shirt,2,3883.32,0.1,3727.99,Credit Card,Delivered
+ORD-00205,2025-01-30,CUST-0019,Central,Indore,Retail Store,Fashion,Hoodie,2,1832.09,0.0,1758.81,Cash on Delivery,Delivered
+ORD-00206,2025-06-10,CUST-0033,West,Mumbai,Website,Home & Kitchen,Water Bottle,1,3731.22,0.1,1940.23,Credit Card,Delivered
+ORD-00207,2025-11-26,CUST-0161,South,Hyderabad,Website,Fashion,T-Shirt,4,4825.23,0.0,9264.44,Net Banking,Delivered
+ORD-00208,2025-04-26,CUST-0036,East,Kolkata,Social Media,Fashion,Sneakers,1,4070.85,0.15,1954.01,Net Banking,Delivered
+ORD-00209,2025-05-03,CUST-0096,South,Kochi,Retail Store,Fashion,Hoodie,2,5041.54,0.15,4839.88,Cash on Delivery,Delivered
+ORD-00210,2025-08-29,CUST-0084,South,Chennai,Marketplace,Books,Fiction Novel,3,204.56,0.05,276.16,Credit Card,Delivered
+ORD-00211,2025-03-15,CUST-0159,South,Bengaluru,Retail Store,Fashion,T-Shirt,5,5990.16,0.05,14376.38,Cash on Delivery,Delivered
+ORD-00212,2025-03-12,CUST-0001,North,Chandigarh,Mobile App,Fashion,Hoodie,1,4621.55,0.05,2218.34,UPI,Delivered
+ORD-00213,2025-12-30,CUST-0115,East,Bhubaneswar,Mobile App,Books,Programming Book,5,1091.34,0.0,2455.51,Credit Card,Cancelled
+ORD-00214,2025-02-01,CUST-0153,Central,Bhopal,Marketplace,Beauty,Moisturizer,3,914.03,0.02,1151.68,Debit Card,Delivered
+ORD-00215,2025-08-27,CUST-0023,South,Chennai,Website,Books,Fiction Novel,4,1581.25,0.1,2846.25,UPI,Delivered
+ORD-00216,2025-06-24,CUST-0088,North,Delhi,Retail Store,Beauty,Sunscreen,4,1039.84,0.02,1746.93,Credit Card,Delivered
+ORD-00217,2025-09-07,CUST-0155,North,Delhi,Retail Store,Home & Kitchen,Storage Box,4,4982.13,0.05,10362.83,Credit Card,Delivered
+ORD-00218,2025-09-27,CUST-0124,Central,Indore,Retail Store,Beauty,Hair Serum,2,2175.91,0.05,1827.76,Debit Card,Delivered
+ORD-00219,2025-05-26,CUST-0102,South,Bengaluru,Website,Fashion,T-Shirt,1,1756.99,0.08,843.36,Cash on Delivery,Delivered
+ORD-00220,2025-11-18,CUST-0090,Central,Nagpur,Mobile App,Fashion,Hoodie,5,4415.96,0.08,10598.3,Net Banking,Delivered
+ORD-00221,2025-01-29,CUST-0046,East,Patna,Website,Books,Programming Book,1,1318.45,0.02,593.3,Debit Card,Cancelled
+ORD-00222,2025-12-18,CUST-0140,West,Pune,Marketplace,Home & Kitchen,Water Bottle,5,2087.67,0.1,5427.94,Credit Card,Delivered
+ORD-00223,2025-01-13,CUST-0123,West,Surat,Retail Store,Fashion,T-Shirt,4,4282.3,0.02,8222.02,Cash on Delivery,Delivered
+ORD-00224,2025-11-11,CUST-0108,South,Kochi,Social Media,Fashion,Jeans,2,971.91,0.1,933.03,Net Banking,Returned
+ORD-00225,2025-11-05,CUST-0086,West,Mumbai,Website,Electronics,Bluetooth Speaker,3,9612.12,0.02,20762.18,Credit Card,Delivered
+ORD-00226,2025-10-30,CUST-0134,Central,Raipur,Social Media,Fashion,Jeans,4,5923.25,0.08,11372.64,Cash on Delivery,Delivered
+ORD-00227,2025-11-05,CUST-0103,North,Dehradun,Retail Store,Beauty,Hair Serum,4,1005.59,0.0,1689.39,Cash on Delivery,Delivered
+ORD-00228,2025-06-16,CUST-0174,South,Kochi,Social Media,Home & Kitchen,Storage Box,5,4586.61,0.15,11925.19,Credit Card,Delivered
+ORD-00229,2025-06-01,CUST-0076,East,Guwahati,Marketplace,Fashion,T-Shirt,2,761.56,0.1,731.1,UPI,Delivered
+ORD-00230,2025-01-06,CUST-0084,North,Delhi,Social Media,Books,Exam Guide,1,1429.8,0.05,643.41,Credit Card,Delivered
+ORD-00231,2025-10-07,CUST-0039,West,Ahmedabad,Mobile App,Beauty,Hair Serum,1,2099.6,0.1,881.83,Cash on Delivery,Delivered
+ORD-00232,2025-07-31,CUST-0158,East,Kolkata,Retail Store,Electronics,Power Bank,2,8129.61,0.08,11706.64,Cash on Delivery,Delivered
+ORD-00233,2025-08-24,CUST-0007,South,Hyderabad,Mobile App,Books,Fiction Novel,3,1329.54,0.05,1794.88,Credit Card,Cancelled
+ORD-00234,2025-11-11,CUST-0114,East,Guwahati,Mobile App,Home & Kitchen,Storage Box,4,4522.56,0.05,9406.92,Credit Card,Delivered
+ORD-00235,2025-07-12,CUST-0128,South,Chennai,Website,Home & Kitchen,Bedsheet,2,4075.86,0.1,4238.89,Debit Card,Delivered
+ORD-00236,2025-04-05,CUST-0083,West,Ahmedabad,Social Media,Fashion,Jeans,3,6093.34,0.02,8774.41,Net Banking,Delivered
+ORD-00237,2025-03-07,CUST-0159,Central,Indore,Mobile App,Books,Exam Guide,3,1443.86,0.1,1949.21,Cash on Delivery,Delivered
+ORD-00238,2025-10-08,CUST-0160,South,Chennai,Mobile App,Books,Business Book,5,607.63,0.1,1367.17,Net Banking,Delivered
+ORD-00239,2025-05-31,CUST-0102,South,Chennai,Mobile App,Beauty,Hair Serum,3,1446.96,0.02,1823.17,Net Banking,Delivered
+ORD-00240,2025-08-19,CUST-0005,Central,Indore,Mobile App,Books,Notebook Set,5,830.1,0.08,1867.73,Debit Card,Delivered
+ORD-00241,2025-10-24,CUST-0032,South,Chennai,Social Media,Books,Programming Book,1,485.29,0.0,218.38,Cash on Delivery,Cancelled
+ORD-00242,2025-07-17,CUST-0080,North,Jaipur,Social Media,Beauty,Hair Serum,1,2062.7,0.1,866.33,Net Banking,Delivered
+ORD-00243,2025-08-31,CUST-0010,East,Guwahati,Mobile App,Home & Kitchen,Cookware Set,4,3311.63,0.1,6888.19,Credit Card,Delivered
+ORD-00244,2025-09-04,CUST-0068,North,Jaipur,Mobile App,Beauty,Moisturizer,1,811.88,0.05,340.99,Net Banking,Delivered
+ORD-00245,2025-12-20,CUST-0154,West,Pune,Social Media,Fashion,T-Shirt,3,4205.39,0.05,6055.76,Credit Card,Delivered
+ORD-00246,2025-07-11,CUST-0049,North,Dehradun,Website,Fashion,Sneakers,2,992.88,0.05,953.16,Net Banking,Delivered
+ORD-00247,2025-09-28,CUST-0058,Central,Nagpur,,Books,Notebook Set,3,1537.25,0.1,2075.29,Credit Card,Delivered
+ORD-00248,2025-07-06,CUST-0165,Central,Indore,Marketplace,Books,Programming Book,4,1720.65,0.05,3097.17,Net Banking,Delivered
+ORD-00249,2025-07-03,CUST-0052,South,Kochi,Social Media,Home & Kitchen,Storage Box,5,3572.43,0.05,9288.32,Net Banking,Delivered
+ORD-00250,2025-12-16,CUST-0130,Central,Nagpur,Social Media,Beauty,Lip Balm,5,1677.69,0.08,3523.15,Credit Card,Cancelled
+ORD-00251,2025-07-17,CUST-0083,East,Patna,Marketplace,Electronics,Bluetooth Speaker,5,14231.09,0.08,51231.92,Cash on Delivery,Delivered
+ORD-00252,2025-05-30,CUST-0048,West,Surat,Mobile App,Fashion,Hoodie,4,5829.6,0.1,11192.83,Debit Card,Delivered
+ORD-00253,2025-06-12,CUST-0030,Central,Bhopal,Marketplace,Home & Kitchen,Cookware Set,5,2353.33,0.02,6118.66,Credit Card,Delivered
+ORD-00254,2025-03-05,CUST-0015,North,Jaipur,Mobile App,Fashion,Backpack,4,6450.54,0.15,12385.04,Debit Card,Delivered
+ORD-00255,2025-05-13,CUST-0025,East,Guwahati,Retail Store,Books,Programming Book,3,573.81,0.05,774.64,Cash on Delivery,Delivered
+ORD-00256,2025-09-15,CUST-0171,North,Chandigarh,Social Media,Books,Fiction Novel,2,558.99,0.05,503.09,Cash on Delivery,Delivered
+ORD-00257,2025-10-10,CUST-0169,Central,Bhopal,Marketplace,Electronics,USB-C Hub,3,4738.29,0.1,10234.71,UPI,Delivered
+ORD-00258,2025-01-14,CUST-0071,Central,Indore,Website,Home & Kitchen,Desk Lamp,1,281.36,0.08,146.31,UPI,Delivered
+ORD-00259,2025-05-07,CUST-0170,West,Ahmedabad,Social Media,Beauty,Sunscreen,2,1815.22,0.08,1524.78,Debit Card,Delivered
+ORD-00260,2025-01-20,CUST-0140,Central,Nagpur,Marketplace,Books,Fiction Novel,5,1723.94,0.02,3878.87,Debit Card,Delivered
+ORD-00261,2025-08-09,CUST-0081,North,Delhi,Mobile App,Books,Programming Book,5,1483.57,0.02,3338.03,Cash on Delivery,Delivered
+ORD-00262,2025-10-06,CUST-0066,West,Mumbai,Marketplace,Fashion,Hoodie,4,3975.84,0.02,7633.61,Cash on Delivery,Delivered
+ORD-00263,2025-07-23,CUST-0125,South,Chennai,Retail Store,Fashion,Hoodie,1,5636.99,0.08,2705.76,Net Banking,Delivered
+ORD-00264,2025-09-13,CUST-0056,North,Jaipur,Website,Books,Fiction Novel,3,1549.33,0.05,2091.6,Cash on Delivery,Delivered
+ORD-00265,2025-01-07,CUST-0105,West,Ahmedabad,Social Media,Books,Fiction Novel,1,991.33,0.15,446.1,Debit Card,Delivered
+ORD-00266,2025-08-31,CUST-0080,Central,Indore,Social Media,Home & Kitchen,Storage Box,1,1613.58,0.0,839.06,Debit Card,Delivered
+ORD-00267,2025-01-02,CUST-0141,West,Ahmedabad,Marketplace,Fashion,Sneakers,2,898.38,0.15,862.44,Credit Card,Delivered
+ORD-00268,2025-10-15,CUST-0094,North,Dehradun,Website,Beauty,Sunscreen,2,823.24,0.05,691.52,Cash on Delivery,Delivered
+ORD-00269,2025-03-11,CUST-0179,North,Delhi,Marketplace,Beauty,Hair Serum,3,304.3,0.0,383.42,Debit Card,Delivered
+ORD-00270,2025-01-03,CUST-0055,North,Chandigarh,Social Media,Books,Exam Guide,5,798.07,0.1,1795.66,UPI,Delivered
+ORD-00271,2025-08-17,CUST-0018,East,Kolkata,Website,Electronics,Smartwatch,2,12103.57,0.1,17429.14,Credit Card,Delivered
+ORD-00272,2025-02-22,CUST-0108,Central,Nagpur,Retail Store,Beauty,Face Wash,3,1206.11,0.05,1519.7,Cash on Delivery,Delivered
+ORD-00273,2025-08-10,CUST-0042,West,Pune,Retail Store,Electronics,USB-C Hub,4,8954.44,0.05,25788.79,Net Banking,Delivered
+ORD-00274,2025-08-10,CUST-0038,West,Ahmedabad,Social Media,Electronics,Wireless Earbuds,4,15469.42,0.02,44551.93,Net Banking,Delivered
+ORD-00275,2025-08-30,CUST-0060,East,Kolkata,Mobile App,Home & Kitchen,Bedsheet,1,3039.74,0.0,1580.66,Cash on Delivery,Delivered
+ORD-00276,2025-04-10,CUST-0059,North,Jaipur,Retail Store,Beauty,Sunscreen,3,806.71,0.08,1016.45,UPI,Delivered
+ORD-00277,2025-11-15,CUST-0061,North,Chandigarh,Marketplace,Electronics,USB-C Hub,2,17933.35,0.0,25824.02,Net Banking,Delivered
+ORD-00278,2025-08-22,CUST-0022,West,Surat,Mobile App,Beauty,Lip Balm,4,1227.34,0.0,2061.93,Debit Card,Delivered
+ORD-00279,2025-11-17,CUST-0064,East,Kolkata,Social Media,Fashion,Hoodie,3,5428.56,0.08,7817.13,Cash on Delivery,Delivered
+ORD-00280,2025-05-30,CUST-0128,West,Surat,Mobile App,Fashion,Hoodie,3,3323.17,0.0,4785.36,UPI,Delivered
+ORD-00281,2025-08-29,CUST-0142,North,Chandigarh,Mobile App,Electronics,Power Bank,5,15160.2,0.15,54576.72,Cash on Delivery,Delivered
+ORD-00282,2025-04-14,CUST-0098,South,Chennai,Mobile App,Books,Business Book,3,1188.86,0.15,1604.96,Net Banking,Delivered
+ORD-00283,2025-09-14,CUST-0083,East,Kolkata,Mobile App,Electronics,Power Bank,2,3965.23,0.02,5709.93,Net Banking,Delivered
+ORD-00284,2025-12-01,CUST-0058,North,Dehradun,Website,Fashion,T-Shirt,4,5997.4,0.08,11515.01,Debit Card,Delivered
+ORD-00285,2025-10-11,CUST-0099,West,Surat,Mobile App,Fashion,Backpack,1,3575.14,0.05,1716.07,Cash on Delivery,Delivered
+ORD-00286,2025-10-29,CUST-0146,Central,Indore,Mobile App,Beauty,Hair Serum,4,1808.56,0.0,3038.38,Debit Card,Delivered
+ORD-00287,2025-08-05,CUST-0079,North,Jaipur,Retail Store,Beauty,Sunscreen,5,261.31,0.05,548.75,Credit Card,Delivered
+ORD-00288,2025-12-18,CUST-0059,North,Jaipur,Retail Store,Beauty,Moisturizer,3,1612.85,0.08,2032.19,UPI,Delivered
+ORD-00289,2025-09-29,CUST-0053,East,Bhubaneswar,Marketplace,Home & Kitchen,Water Bottle,3,4483.54,0.02,6994.32,UPI,Delivered
+ORD-00290,2025-07-01,CUST-0103,East,Patna,Marketplace,Electronics,Smartwatch,5,7095.27,0.0,25542.97,Net Banking,Delivered
+ORD-00291,2025-12-08,CUST-0049,Central,Raipur,Social Media,Beauty,Moisturizer,2,1542.38,0.15,1295.6,Cash on Delivery,Delivered
+ORD-00292,2025-08-17,CUST-0162,North,Dehradun,Social Media,Fashion,Hoodie,5,4545.2,0.05,10908.48,Net Banking,Delivered
+ORD-00293,2025-01-30,CUST-0083,West,Surat,Retail Store,Fashion,Sneakers,4,3377.22,0.02,6484.26,Debit Card,Delivered
+ORD-00294,2025-02-09,CUST-0079,South,Chennai,Retail Store,Fashion,Sneakers,3,1962.86,0.02,2826.52,UPI,Delivered
+ORD-00295,2025-02-27,CUST-0176,South,Chennai,Mobile App,Fashion,Jeans,2,634.92,0.08,609.52,Cash on Delivery,Delivered
+ORD-00296,2025-07-15,CUST-0085,South,Chennai,Retail Store,Home & Kitchen,Cookware Set,2,3825.56,0.0,3978.58,UPI,Delivered
+ORD-00297,2025-12-18,CUST-0119,Central,Indore,Social Media,Books,Exam Guide,3,1712.74,0.0,2312.2,Credit Card,Cancelled
+ORD-00298,2025-11-29,CUST-0063,East,Kolkata,Retail Store,Home & Kitchen,Water Bottle,3,2076.87,0.1,3239.92,Credit Card,Returned
+ORD-00299,2025-12-05,CUST-0037,North,Jaipur,Marketplace,Electronics,USB-C Hub,4,11633.01,0.15,33503.07,Cash on Delivery,Delivered
+ORD-00300,2025-01-27,CUST-0110,Central,Raipur,Website,Beauty,Sunscreen,1,1310.84,0.05,550.55,Credit Card,Delivered
+ORD-00301,2025-01-07,CUST-0074,North,Jaipur,Marketplace,Electronics,Smartwatch,1,8147.09,0.0,5865.9,Debit Card,Delivered
+ORD-00302,2025-08-19,CUST-0103,West,Mumbai,Retail Store,Home & Kitchen,Cookware Set,5,1819.11,0.08,4729.69,Cash on Delivery,Delivered
+ORD-00303,2025-05-20,CUST-0014,South,Kochi,Social Media,Electronics,USB-C Hub,5,1542.02,0.1,5551.27,Cash on Delivery,Delivered
+ORD-00304,2025-10-06,CUST-0010,West,Mumbai,Retail Store,Fashion,Backpack,4,4308.51,0.08,8272.34,UPI,Delivered
+ORD-00305,2025-08-24,CUST-0121,West,Pune,Social Media,Home & Kitchen,Cookware Set,5,4345.38,0.08,11297.99,Cash on Delivery,Delivered
+ORD-00306,2025-01-24,CUST-0039,North,Jaipur,Social Media,Books,Fiction Novel,2,1130.08,0.02,1017.07,UPI,Delivered
+ORD-00307,2025-10-25,CUST-0166,East,Bhubaneswar,Social Media,Fashion,Backpack,5,2365.82,0.15,5677.97,UPI,Returned
+ORD-00308,2025-09-23,CUST-0122,Central,Indore,Website,Electronics,Bluetooth Speaker,1,5500.65,0.1,3960.47,UPI,Delivered
+ORD-00309,2025-06-30,CUST-0074,Central,Indore,Marketplace,Beauty,Hair Serum,3,1538.48,0.1,1938.48,Credit Card,Delivered
+ORD-00310,2025-05-26,CUST-0052,North,Dehradun,Mobile App,Electronics,Bluetooth Speaker,1,15191.12,0.0,10937.61,Debit Card,Delivered
+ORD-00311,2025-05-09,CUST-0100,West,Ahmedabad,Website,Beauty,Lip Balm,4,2193.42,0.05,3684.95,UPI,Cancelled
+ORD-00312,2025-08-18,CUST-0012,South,Hyderabad,Website,Home & Kitchen,Water Bottle,5,3610.27,0.02,9386.7,Debit Card,Delivered
+ORD-00313,2025-04-27,CUST-0043,Central,Indore,Website,Beauty,Sunscreen,5,1050.54,0.1,2206.13,Debit Card,Delivered
+ORD-00314,2025-07-03,CUST-0097,West,Surat,Website,Beauty,Face Wash,5,493.76,0.15,1036.9,Cash on Delivery,Delivered
+ORD-00315,2025-10-12,CUST-0121,East,Patna,Retail Store,Books,Fiction Novel,4,403.92,0.08,727.06,Net Banking,Delivered
+ORD-00316,2025-05-01,CUST-0063,South,Hyderabad,Social Media,Beauty,Lip Balm,4,1640.83,0.02,2756.59,UPI,Delivered
+ORD-00317,2025-09-06,CUST-0049,Central,Nagpur,Social Media,Electronics,Power Bank,2,9783.37,0.02,14088.05,Credit Card,Delivered
+ORD-00318,2025-04-09,CUST-0059,West,Pune,Marketplace,Electronics,Power Bank,4,2047.77,0.05,5897.58,Net Banking,Delivered
+ORD-00319,2025-09-30,CUST-0153,East,Patna,Marketplace,Books,Exam Guide,3,1450.42,0.02,1958.07,Cash on Delivery,Delivered
+ORD-00320,2025-01-24,CUST-0168,South,Hyderabad,Social Media,Home & Kitchen,Storage Box,1,3632.32,0.1,1888.81,UPI,Delivered
+ORD-00321,2025-07-26,CUST-0154,South,Bengaluru,Website,Beauty,Face Wash,5,1129.02,0.05,2370.94,Credit Card,Delivered
+ORD-00322,2025-02-10,CUST-0037,West,Ahmedabad,Marketplace,Home & Kitchen,Desk Lamp,2,1106.14,0.0,1150.39,Net Banking,Delivered
+ORD-00323,2025-03-05,CUST-0094,South,Hyderabad,Retail Store,Books,Business Book,5,205.86,0.15,463.19,Debit Card,Delivered
+ORD-00324,2025-07-08,CUST-0077,West,Ahmedabad,Website,Beauty,Lip Balm,3,399.51,0.02,503.38,Credit Card,Delivered
+ORD-00325,2025-02-17,CUST-0103,East,Bhubaneswar,Marketplace,Fashion,Hoodie,4,2815.19,0.02,5405.16,Net Banking,Delivered
+ORD-00326,2025-02-10,CUST-0105,North,Chandigarh,Retail Store,Fashion,Backpack,5,5250.39,0.0,12600.94,UPI,Delivered
+ORD-00327,2025-02-04,CUST-0043,East,Patna,Website,Books,Fiction Novel,4,483.73,0.1,870.71,UPI,Delivered
+ORD-00328,2025-12-24,CUST-0152,East,Guwahati,Marketplace,Home & Kitchen,Cookware Set,2,1337.76,0.0,1391.27,Cash on Delivery,Delivered
+ORD-00329,2025-06-08,CUST-0041,East,Patna,Website,Beauty,Face Wash,4,1258.96,0.05,2115.05,Net Banking,Delivered
+ORD-00330,2025-02-18,CUST-0094,South,Chennai,Retail Store,Fashion,Jeans,5,5806.35,0.08,13935.24,Credit Card,Delivered
+ORD-00331,2025-05-22,CUST-0040,North,Delhi,Retail Store,Electronics,Power Bank,3,8306.8,0.15,17942.69,Credit Card,Delivered
+ORD-00332,2025-03-09,CUST-0168,North,Delhi,Retail Store,Electronics,USB-C Hub,2,14269.99,0.0,20548.79,UPI,Delivered
+ORD-00333,2025-05-30,CUST-0050,South,Hyderabad,Social Media,Beauty,Sunscreen,4,1123.2,0.1,1886.98,Debit Card,Delivered
+ORD-00334,2025-11-03,CUST-0113,South,Kochi,Marketplace,Books,Business Book,4,811.23,0.08,1460.21,Cash on Delivery,Delivered
+ORD-00335,2025-04-29,CUST-0018,West,Surat,Mobile App,Books,Fiction Novel,1,1175.4,0.05,528.93,Debit Card,Delivered
+ORD-00336,2025-10-17,CUST-0094,East,Bhubaneswar,Marketplace,Home & Kitchen,Water Bottle,5,2152.14,0.1,5595.56,UPI,Delivered
+ORD-00337,2025-05-04,CUST-0098,West,Ahmedabad,Retail Store,Fashion,Backpack,2,1789.69,0.05,1718.1,Debit Card,Delivered
+ORD-00338,2025-02-11,CUST-0157,South,Kochi,Social Media,Electronics,Bluetooth Speaker,1,4079.59,0.08,2937.3,Cash on Delivery,Delivered
+ORD-00339,2025-10-24,CUST-0160,Central, Bhopal ,Mobile App,Beauty,Moisturizer,2,208.07,0.15,174.78,Debit Card,Delivered
+ORD-00340,2025-01-11,CUST-0019,South,Kochi,Mobile App,Books,Fiction Novel,2,1474.42,0.02,1326.98,Credit Card,Delivered
+ORD-00341,2025-12-17,CUST-0150,East,Guwahati,Mobile App,Electronics,Power Bank,2,4125.94,0.02,5941.35,Cash on Delivery,Delivered
+ORD-00342,2025-06-17,CUST-0050,North,Dehradun,Social Media,Home & Kitchen,Storage Box,2,1245.19,0.15,1295.0,Net Banking,Delivered
+ORD-00343,2025-07-02,CUST-0052,North,Jaipur,Mobile App,Electronics,Smartwatch,3,14031.18,0.05,30307.35,Cash on Delivery,Delivered
+ORD-00344,2025-01-28,CUST-0054,Central,Bhopal,Website,Fashion,Backpack,4,5412.41,0.08,10391.83,Net Banking,Delivered
+ORD-00345,2025-09-19,CUST-0115,East,Bhubaneswar,Mobile App,Beauty,Lip Balm,1,198.31,0.08,83.29,Cash on Delivery,Delivered
+ORD-00346,2025-03-29,CUST-0141,North,Delhi,Website,Beauty,Moisturizer,1,488.58,0.1,205.2,Debit Card,Returned
+ORD-00347,2025-06-03,CUST-0167,North,Chandigarh,Retail Store,Books,Fiction Novel,1,1191.59,0.08,536.22,UPI,Delivered
+ORD-00348,2025-02-16,CUST-0018,North,Delhi,Marketplace,Fashion,Hoodie,1,4068.22,0.05,1952.75,Debit Card,Delivered
+ORD-00349,2025-12-20,CUST-0013,South,Chennai,Social Media,Beauty,Face Wash,1,1169.09,0.08,491.02,Credit Card,Delivered
+ORD-00350,2025-11-25,CUST-0083,West,Mumbai,Mobile App,Electronics,Bluetooth Speaker,3,10262.51,0.0,22167.02,Debit Card,Cancelled
+ORD-00351,2025-03-13,CUST-0097,West,Mumbai,Website,Home & Kitchen,Cookware Set,1,1226.17,0.15,637.61,Credit Card,Delivered
+ORD-00352,2025-09-24,CUST-0055,West,Surat,Website,Beauty,Face Wash,1,312.19,0.02,131.12,UPI,Delivered
+ORD-00353,2025-01-03,CUST-0028,West,Surat,Social Media,Beauty,Hair Serum,2,1761.36,0.02,1479.54,Credit Card,Delivered
+ORD-00354,2025-07-15,CUST-0172,South,Hyderabad,Mobile App,Books,Business Book,1,323.77,0.08,145.7,Debit Card,Cancelled
+ORD-00355,2025-06-02,CUST-0080,South,Hyderabad,Website,Fashion,Jeans,3,5225.46,0.05,7524.66,Net Banking,Delivered
+ORD-00356,2025-12-26,CUST-0055,Central,Nagpur,Website,Books,Business Book,1,923.78,0.1,415.7,Credit Card,Delivered
+ORD-00357,2025-12-06,CUST-0038,South,Bengaluru,Marketplace,Fashion,Jeans,4,6034.08,0.15,11585.43,Credit Card,Delivered
+ORD-00358,2025-03-01,CUST-0172,East,Guwahati,Retail Store,Beauty,Hair Serum,2,1872.03,0.05,1572.51,Credit Card,Delivered
+ORD-00359,2025-12-17,CUST-0104,West,Mumbai,Website,Home & Kitchen,Bedsheet,4,927.05,0.15,1928.26,Debit Card,Delivered
+ORD-00360,2025-11-10,CUST-0113,Central,Indore,Mobile App,Electronics,Power Bank,2,11592.51,0.15,16693.21,Cash on Delivery,Delivered
+ORD-00361,2025-09-17,CUST-0159,North,Jaipur,Retail Store,Fashion,Backpack,4,730.21,0.1,1402.0,Credit Card,Delivered
+ORD-00362,2025-12-28,CUST-0056,West,Pune,Marketplace,Beauty,Face Wash,4,1479.25,0.1,2485.14,UPI,Delivered
+ORD-00363,2025-04-16,CUST-0069,West,Pune,Marketplace,Beauty,Sunscreen,2,617.82,0.08,518.97,Credit Card,Delivered
+ORD-00364,2025-03-18,CUST-0013,South,Chennai,Website,Fashion,Hoodie,4,6310.74,0.02,12116.62,Net Banking,Delivered
+ORD-00365,2025-12-31,CUST-0055,South,Hyderabad,Social Media,Home & Kitchen,Water Bottle,4,4035.78,0.02,8394.42,UPI,Delivered
+ORD-00366,2025-09-25,CUST-0106,East,Bhubaneswar,Retail Store,Books,Fiction Novel,1,1510.54,0.1,679.74,UPI,Delivered
+ORD-00367,2025-01-29,CUST-0015,Central,Nagpur,Marketplace,Beauty,Sunscreen,3,1471.87,0.1,1854.56,Debit Card,Delivered
+ORD-00368,2025-08-31,CUST-0033,South,Bengaluru,Mobile App,Beauty,Moisturizer,5,819.84,0.1,1721.66,Credit Card,Delivered
+ORD-00369,2025-12-29,CUST-0091,Central,Indore,Marketplace,Beauty,Sunscreen,5,1846.15,0.0,3876.91,UPI,Delivered
+ORD-00370,2025-06-04,CUST-0012,South,Chennai,Social Media,Electronics,USB-C Hub,5,3104.07,0.02,11174.65,Credit Card,Delivered
+ORD-00371,2025-09-29,CUST-0144,South,Bengaluru,Marketplace,Home & Kitchen,Water Bottle,5,904.77,0.08,2352.4,UPI,Delivered
+ORD-00372,2025-07-05,CUST-0147,Central,Raipur,Social Media,Electronics,USB-C Hub,3,8569.74,0.02,18510.64,Debit Card,Delivered
+ORD-00373,2025-04-29,CUST-0123,South,Chennai,Social Media,Electronics,Power Bank,2,17717.4,0.02,25513.06,Net Banking,Delivered
+ORD-00374,2025-07-10,CUST-0171,North,Dehradun,Website,Beauty,Lip Balm,4,1790.19,0.1,3007.52,Debit Card,Delivered
+ORD-00375,2025-06-05,CUST-0176,East,Patna,Mobile App,Books,Fiction Novel,3,727.15,0.02,981.65,Net Banking,Delivered
+ORD-00376,2025-12-02,CUST-0009,East,Guwahati,Retail Store,Home & Kitchen,Cookware Set,3,1925.06,0.1,3003.09,Credit Card,Cancelled
+ORD-00377,2025-07-22,CUST-0020,West,Ahmedabad,Social Media,Fashion,Jeans,1,3800.62,0.0,1824.3,Net Banking,Delivered
+ORD-00378,2025-01-25,CUST-0077,North,Delhi,Retail Store,Books,Programming Book,5,1618.61,0.0,3641.87,Cash on Delivery,Cancelled
+ORD-00379,2025-11-14,CUST-0120,South,Hyderabad,Website,Fashion,Hoodie,2,6434.93,0.05,6177.53,Net Banking,Delivered
+ORD-00380,2025-11-10,CUST-0093,East,Patna,Website,Books,Exam Guide,1,358.96,0.02,161.53,Cash on Delivery,Delivered
+ORD-00381,2025-03-05,CUST-0087,North,Chandigarh,Social Media,Fashion,Jeans,3,5075.87,0.1,7309.25,Cash on Delivery,Delivered
+ORD-00382,2025-02-11,CUST-0118,Central,Nagpur,Mobile App,Home & Kitchen,Storage Box,1,4708.88,0.15,2448.62,UPI,Delivered
+ORD-00383,2025-12-23,CUST-0040,South,Kochi,Marketplace,Fashion,Backpack,1,3296.17,0.15,1582.16,Cash on Delivery,Delivered
+ORD-00384,2025-07-25,CUST-0089,East,Patna,Mobile App,Beauty,Moisturizer,2,1719.65,0.0,1444.51,Net Banking,Cancelled
+ORD-00385,2025-12-31,CUST-0086,East,Guwahati,Marketplace,Books,Fiction Novel,1,196.27,0.0,88.32,Net Banking,Delivered
+ORD-00386,2025-09-25,CUST-0072,North,Dehradun,Website,Electronics,USB-C Hub,4,7027.54,0.15,20239.32,Credit Card,Delivered
+ORD-00387,2025-05-10,CUST-0148,South,Chennai,Marketplace,Home & Kitchen,Storage Box,2,3284.12,0.05,3415.48,Credit Card,Delivered
+ORD-00388,2025-11-12,CUST-0103,South,Kochi,Social Media,Books,Exam Guide,5,1577.81,0.05,3550.07,Debit Card,Delivered
+ORD-00389,2025-06-30,CUST-0055,West,Pune,Website,Beauty,Lip Balm,3,993.99,0.0,1252.43,UPI,Returned
+ORD-00390,2025-08-20,CUST-0157,East,Guwahati,Marketplace,Beauty,Hair Serum,2,1711.74,0.0,1437.86,UPI,Returned
+ORD-00391,2025-02-24,CUST-0117,West,Surat,Retail Store,Books,Business Book,3,687.2,0.0,927.72,Cash on Delivery,Delivered
+ORD-00392,2025-02-23,CUST-0044,South,Bengaluru,Retail Store,Books,Exam Guide,3,1410.41,0.15,1904.05,Net Banking,Delivered
+ORD-00393,2025-07-13,CUST-0156,North,Jaipur,Retail Store,Beauty,Sunscreen,4,531.59,0.05,893.07,Credit Card,Delivered
+ORD-00394,2025-07-24,CUST-0094,West,Mumbai,Marketplace,Home & Kitchen,Water Bottle,3,2903.66,0.08,4529.71,UPI,Delivered
+ORD-00395,2025-10-02,CUST-0117,North,Delhi,Retail Store,Home & Kitchen,Storage Box,2,2470.52,0.02,2569.34,UPI,Delivered
+ORD-00396,2025-07-04,CUST-0021,Central,Indore,Marketplace,Fashion,T-Shirt,1,1234.77,0.0,592.69,UPI,Cancelled
+ORD-00397,2025-01-23,CUST-0099,West,Ahmedabad,Marketplace,Home & Kitchen,Bedsheet,5,1557.79,0.1,4050.25,UPI,Delivered
+ORD-00398,2025-05-08,CUST-0026,North,Jaipur,Retail Store,Beauty,Hair Serum,4,1508.11,0.08,2533.62,Debit Card,Delivered
+ORD-00399,2025-08-11,CUST-0048,West,Surat,Social Media,Books,Programming Book,4,315.53,0.1,567.95,Cash on Delivery,Delivered
+ORD-00400,2025-01-17,CUST-0014,East,Patna,Mobile App,Beauty,Hair Serum,2,968.92,0.02,813.89,UPI,Delivered
+ORD-00401,2025-07-19,CUST-0118,North,Jaipur,Website,Electronics,USB-C Hub,1,2131.42,0.08,1534.62,Net Banking,Delivered
+ORD-00402,2025-09-29,CUST-0091,North,Delhi,Retail Store,Electronics,Smartwatch,1,814.76,0.15,586.63,Debit Card,Delivered
+ORD-00403,2025-11-24,CUST-0106,Central,Bhopal,Retail Store,Home & Kitchen,Water Bottle,5,1117.51,0.1,2905.53,Cash on Delivery,Delivered
+ORD-00404,2025-08-11,CUST-0112,East,Kolkata,Mobile App,Books,Programming Book,2,1566.64,0.1,1409.98,Cash on Delivery,Delivered
+ORD-00405,2025-11-05,CUST-0001,North,Chandigarh,Retail Store,Electronics,Wireless Earbuds,4,3795.99,0.15,10932.45,Credit Card,Delivered
+ORD-00406,2025-11-13,CUST-0019,Central,Indore,Website,Home & Kitchen,Water Bottle,4,4601.54,0.0,9571.2,UPI,Delivered
+ORD-00407,2025-10-16,CUST-0178,South,Chennai,Website,Fashion,T-Shirt,5,5300.96,0.05,12722.3,Cash on Delivery,Delivered
+ORD-00408,2025-12-02,CUST-0052,Central,Nagpur,Retail Store,Fashion,Hoodie,5,5706.13,0.15,13694.71,Net Banking,Returned
+ORD-00409,2025-05-07,CUST-0067,North,Delhi,Retail Store,Fashion,T-Shirt,5,2420.34,0.05,5808.82,UPI,Delivered
+ORD-00410,2025-08-02,CUST-0140,East,Kolkata,Marketplace,Beauty,Hair Serum,5,1838.35,0.08,3860.53,UPI,Delivered
+ORD-00411,2025-10-29,CUST-0068,West,Pune,Website,Beauty,Moisturizer,5,1971.41,0.1,4139.96,Credit Card,Delivered
+ORD-00412,2025-01-10,CUST-0159,West,Ahmedabad,Marketplace,Books,Business Book,4,943.55,0.02,1698.39,UPI,Delivered
+ORD-00413,2025-10-11,CUST-0104,North,Delhi,Marketplace,Home & Kitchen,Storage Box,5,4018.8,0.0,10448.88,Debit Card,Cancelled
+ORD-00414,2025-05-22,CUST-0140,West,Mumbai,Marketplace,Books,Business Book,5,1764.63,0.08,3970.42,Debit Card,Delivered
+ORD-00415,2025-09-14,CUST-0043,West,Mumbai,Mobile App,Books,Notebook Set,4,667.21,0.0,1200.98,Cash on Delivery,Delivered
+ORD-00416,2025-03-11,CUST-0104,Central,Raipur,Mobile App,Fashion,Jeans,1,5315.01,0.02,2551.2,Net Banking,Delivered
+ORD-00417,2025-06-13,CUST-0179,South,Chennai,Marketplace,Fashion,Backpack,2,2439.27,0.15,2341.7,Credit Card,Delivered
+ORD-00418,2025-08-21,CUST-0090,South,Hyderabad,Website,Electronics,USB-C Hub,1,12355.17,0.1,8895.72,Cash on Delivery,Delivered
+ORD-00419,2025-11-25,CUST-0129,West,Pune,Retail Store,Books,Fiction Novel,3,663.4,0.02,895.59,Cash on Delivery,Returned
+ORD-00420,2025-10-22,CUST-0016,South,Hyderabad,Mobile App,Beauty,Lip Balm,4,677.35,0.08,1137.95,Credit Card,Delivered
+ORD-00421,2025-01-30,CUST-0109,South,Hyderabad,Retail Store,Fashion,Backpack,1,5772.69,0.0,2770.89,Cash on Delivery,Delivered
+ORD-00422,2025-10-05,CUST-0169,North,Jaipur,Website,Electronics,Smartwatch,1,6158.97,0.02,4434.46,Credit Card,Delivered
+ORD-00423,2025-07-03,CUST-0097,Central,Nagpur,Social Media,Fashion,Sneakers,3,3583.99,0.0,5160.95,Net Banking,Delivered
+ORD-00424,2025-03-14,CUST-0151,Central,Raipur,Mobile App,Books,Business Book,2,481.89,0.05,433.7,Cash on Delivery,Delivered
+ORD-00425,2025-05-23,CUST-0083,South,Chennai,Mobile App,Electronics,Wireless Earbuds,3,3457.72,0.08,7468.68,Net Banking,Delivered
+ORD-00426,2025-07-06,CUST-0167,North,Jaipur,Mobile App,Fashion,T-Shirt,1,638.9,0.1,306.67,Debit Card,Delivered
+ORD-00427,2025-04-13,CUST-0116,South,Hyderabad,Retail Store,Home & Kitchen,Water Bottle,4,874.02,0.15,1817.96,Net Banking,Delivered
+ORD-00428,2025-02-07,CUST-0161,South,Bengaluru,Marketplace,Electronics,USB-C Hub,4,6214.17,0.05,17896.81,Credit Card,Delivered
+ORD-00429,2025-07-17,CUST-0135,East,Bhubaneswar,Retail Store,Electronics,Bluetooth Speaker,2,11184.04,0.08,16105.02,Credit Card,Delivered
+ORD-00430,2025-12-30,CUST-0054,South,Hyderabad,Mobile App,Home & Kitchen,Bedsheet,5,4914.31,0.05,12777.21,UPI,Delivered
+ORD-00431,2025-09-01,CUST-0161,West,Ahmedabad,Mobile App,Electronics,Smartwatch,4,12852.43,0.05,37015.0,UPI,Delivered
+ORD-00432,2025-11-17,CUST-0103,Central,Raipur,Retail Store,Fashion,Backpack,3,844.13,0.02,1215.55,Credit Card,Delivered
+ORD-00433,2025-08-10,CUST-0138,West,Mumbai,Marketplace,Fashion,T-Shirt,2,4587.84,0.0,4404.33,Credit Card,Delivered
+ORD-00434,2025-11-22,CUST-0001,North,Chandigarh,Mobile App,Books,Programming Book,1,806.27,0.08,362.82,Net Banking,Delivered
+ORD-00435,2025-02-02,CUST-0168,South,Bengaluru,Website,Home & Kitchen,Cookware Set,5,4338.55,0.08,11280.23,Credit Card,Cancelled
+ORD-00436,2025-09-23,CUST-0143,East,Kolkata,Mobile App,Electronics,Smartwatch,3,2869.85,0.15,6198.88,Cash on Delivery,Delivered
+ORD-00437,2025-12-04,CUST-0005,Central,Indore,Mobile App,Beauty,Hair Serum,4,1485.39,0.1,2495.46,Cash on Delivery,Delivered
+ORD-00438,2025-08-17,CUST-0147,Central,Indore,Retail Store,Books,Business Book,4,320.37,0.1,576.67,Debit Card,Delivered
+ORD-00439,2025-05-17,CUST-0065,Central,Indore,Retail Store,Beauty,Moisturizer,2,1077.05,0.08,904.72,Net Banking,Delivered
+ORD-00440,2025-12-29,CUST-0010,South,Chennai,Social Media,Electronics,Smartwatch,3,13525.09,0.05,29214.19,Debit Card,Cancelled
+ORD-00441,2025-09-14,CUST-0066,North,Chandigarh,Website,Fashion,Hoodie,1,1832.24,0.02,879.48,Debit Card,Delivered
+ORD-00442,2025-07-15,CUST-0067,Central,Indore,Social Media,Books,Programming Book,3,1769.54,0.1,2388.88,UPI,Delivered
+ORD-00443,2025-07-15,CUST-0119,Central,Nagpur,Marketplace,Books,Notebook Set,2,1173.92,0.0,1056.53,UPI,Delivered
+ORD-00444,2025-01-08,CUST-0103,West,Ahmedabad,Social Media,Electronics,Wireless Earbuds,4,7349.87,0.15,21167.63,Debit Card,Delivered
+ORD-00445,2025-06-11,CUST-0096,Central,Bhopal,Mobile App,Electronics,USB-C Hub,4,16659.56,0.05,47979.53,Net Banking,Delivered
+ORD-00446,2025-05-16,CUST-0041,East,Guwahati,Mobile App,Electronics,USB-C Hub,1,13110.94,0.0,9439.88,Credit Card,Delivered
+ORD-00447,2025-11-08,CUST-0146,Central,Raipur,Website,Home & Kitchen,Cookware Set,1,2602.64,0.02,1353.37,Debit Card,Returned
+ORD-00448,2025-01-31,CUST-0179,North,Chandigarh,Social Media,Beauty,Hair Serum,3,824.41,0.1,1038.76,UPI,Returned
+ORD-00449,2025-09-08,CUST-0112,North,Dehradun,Mobile App,Home & Kitchen,Cookware Set,1,3271.56,0.15,1701.21,Debit Card,Delivered
+ORD-00450,2025-07-20,CUST-0098,West,Surat,Mobile App,Books,Business Book,5,624.21,0.05,1404.47,Credit Card,Delivered
+ORD-00451,2025-08-20,CUST-0071,South,Kochi,Mobile App,Home & Kitchen,Cookware Set,3,4011.22,0.15,6257.5,UPI,Delivered
+ORD-00452,2025-09-14,CUST-0037,West,Surat,Social Media,Beauty,Face Wash,2,1007.0,0.0,845.88,Net Banking,Delivered
+ORD-00453,2025-10-28,CUST-0062,South,Chennai,Social Media,Beauty,Moisturizer,4,1470.27,0.1,2470.05,Net Banking,Delivered
+ORD-00454,2025-11-23,CUST-0095,North,Dehradun,Social Media,Fashion,Backpack,4,4873.94,0.05,9357.96,Debit Card,Delivered
+ORD-00455,2025-03-20,CUST-0141,East,Patna,Website,Fashion,Hoodie,5,6347.85,0.1,15234.84,UPI,Returned
+ORD-00456,2025-07-10,CUST-0153,South,Chennai,Mobile App,Fashion,Sneakers,4,2401.39,0.0,4610.67,UPI,Delivered
+ORD-00457,2025-04-17,CUST-0132,Central,Indore,Website,Home & Kitchen,Water Bottle,4,2161.95,0.08,4496.86,Cash on Delivery,Delivered
+ORD-00458,2025-10-22,CUST-0073,West,Surat,Marketplace,Home & Kitchen,Desk Lamp,1,4203.3,0.02,2185.72,Debit Card,Delivered
+ORD-00459,2025-12-10,CUST-0157,South,Chennai,Marketplace,Fashion,Jeans,5,1559.02,0.1,3741.65,UPI,Delivered
+ORD-00460,2025-01-06,CUST-0111,West,Pune,Marketplace,Fashion,Sneakers,5,4723.57,0.02,11336.57,Cash on Delivery,Delivered
+ORD-00461,2025-02-12,CUST-0120,West,Surat,Website,Beauty,Hair Serum,3,1378.51,0.02,1736.92,Cash on Delivery,Delivered
+ORD-00462,2025-04-01,CUST-0007,North,Delhi,Social Media,Fashion,Jeans,1,2253.68,0.02,1081.77,Credit Card,Delivered
+ORD-00463,2025-01-11,CUST-0074,East,Kolkata,Website,Home & Kitchen,Desk Lamp,4,3070.6,0.1,6386.85,UPI,Delivered
+ORD-00464,2025-05-29,CUST-0001,South,Chennai,Retail Store,Beauty,Lip Balm,3,244.2,0.05,307.69,Net Banking,Cancelled
+ORD-00465,2025-06-06,CUST-0165,North,Dehradun,Retail Store,Books,Notebook Set,5,1453.44,0.0,3270.24,Cash on Delivery,Returned
+ORD-00466,2025-05-26,CUST-0076,North,Chandigarh,Marketplace,Electronics,USB-C Hub,5,16294.72,0.15,58660.99,Net Banking,Returned
+ORD-00467,2025-11-13,CUST-0030,North,Jaipur,Website,Electronics,Smartwatch,1,9461.74,0.05,6812.45,Debit Card,Delivered
+ORD-00468,2025-06-20,CUST-0137,Central,Raipur,Social Media,Books,Fiction Novel,5,746.22,0.0,1679.0,Net Banking,Delivered
+ORD-00469,2025-10-14,CUST-0112,South,Hyderabad,Social Media,Electronics,Power Bank,1,1225.36,0.0,882.26,Debit Card,Returned
+ORD-00470,2025-12-22,CUST-0014,North,Dehradun,Website,Books,Programming Book,1,353.33,0.05,159.0,Cash on Delivery,Delivered
+ORD-00471,2025-04-21,CUST-0098,Central,Nagpur,Marketplace,Beauty,Lip Balm,4,2106.86,0.08,3539.52,Cash on Delivery,Delivered
+ORD-00472,2025-03-25,CUST-0082,East,Patna,Website,Fashion,Hoodie,2,502.87,0.05,482.76,Debit Card,Delivered
+ORD-00473,2025-11-10,CUST-0074,North,Dehradun,Retail Store,Beauty,Moisturizer,2,329.21,0.15,276.54,Net Banking,Delivered
+ORD-00474,2025-02-01,CUST-0095,West,Mumbai,Mobile App,Fashion,Hoodie,3,3561.06,0.05,5127.93,Cash on Delivery,Delivered
+ORD-00475,2025-10-25,CUST-0135,West,Mumbai,Social Media,Beauty,Sunscreen,5,1414.63,0.08,2970.72,UPI,Delivered
+ORD-00476,2025-10-14,CUST-0116,Central,Bhopal,Social Media,Beauty,Face Wash,1,1513.12,0.02,635.51,UPI,Delivered
+ORD-00477,2025-06-14,CUST-0125,West,Surat,Marketplace,Books,Business Book,3,1255.61,0.02,1695.07,Debit Card,Delivered
+ORD-00478,2025-04-05,CUST-0152,North,Chandigarh,Mobile App,Home & Kitchen,Water Bottle,4,4452.67,0.08,9261.55,Debit Card,Delivered
+ORD-00479,2025-11-04,CUST-0076,Central,Bhopal,Social Media,Beauty,Moisturizer,5,1867.36,0.15,3921.46,Net Banking,Delivered
+ORD-00480,2025-03-07,CUST-0129,East,Kolkata,Social Media,Fashion,T-Shirt,5,2888.7,0.0,6932.88,Credit Card,Delivered
+ORD-00481,2025-06-12,CUST-0005,Central,Bhopal,Website,Beauty,Sunscreen,5,2172.64,0.0,4562.54,Credit Card,Delivered
+ORD-00482,2025-05-22,CUST-0056,Central,Bhopal,Marketplace,Beauty,Hair Serum,2,1827.14,0.05,1534.8,Debit Card,Delivered
+ORD-00483,2025-04-25,CUST-0039,South,Kochi,Mobile App,Fashion,Hoodie,5,1251.1,0.05,3002.64,Debit Card,Delivered
+ORD-00484,2025-06-25,CUST-0051,Central,Indore,Website,Books,Exam Guide,5,1282.62,0.15,2885.89,Credit Card,Cancelled
+ORD-00485,2025-10-03,CUST-0026,Central,Indore,Website,Electronics,Wireless Earbuds,5,14107.98,0.15,50788.73,Cash on Delivery,Delivered
+ORD-00486,2025-12-28,CUST-0159,East,Bhubaneswar,Marketplace,Books,Business Book,4,1746.81,0.05,3144.26,UPI,Delivered
+ORD-00487,2025-06-10,CUST-0027,Central,Raipur,Social Media,Home & Kitchen,Storage Box,5,1800.4,0.1,4681.04,Net Banking,Delivered
+ORD-00488,2025-08-17,CUST-0066,East,Bhubaneswar,Marketplace,Beauty,Hair Serum,4,1820.35,0.0,3058.19,Debit Card,Delivered
+ORD-00489,2025-05-25,CUST-0094,East,Bhubaneswar,Mobile App,Home & Kitchen,Desk Lamp,3,1442.99,0.0,2251.06,Cash on Delivery,Cancelled
+ORD-00490,2025-02-23,CUST-0145,South,Chennai,Marketplace,Books,Exam Guide,1,1171.13,0.02,527.01,Credit Card,Delivered
+ORD-00491,2025-12-08,CUST-0040,West,Mumbai,Mobile App,Fashion,Backpack,5,3666.35,0.0,8799.24,Debit Card,Delivered
+ORD-00492,2025-04-13,CUST-0014,West,Ahmedabad,Marketplace,Books,Fiction Novel,1,1263.01,0.1,568.35,Credit Card,Delivered
+ORD-00493,2025-04-09,CUST-0059,West,Surat,Mobile App,Beauty,Moisturizer,1,262.98,0.05,110.45,Debit Card,Delivered
+ORD-00494,2025-06-27,CUST-0157,North,Dehradun,Social Media,Home & Kitchen,Storage Box,3,4844.22,0.15,7556.98,Debit Card,Delivered
+ORD-00495,2025-08-28,CUST-0058,East,Patna,Website,Electronics,Power Bank,3,5684.34,0.05,12278.17,Debit Card,Delivered
+ORD-00496,2025-10-02,CUST-0067,South,Bengaluru,Website,Books,Fiction Novel,1,575.57,0.15,259.01,Debit Card,Cancelled
+ORD-00497,2025-11-24,CUST-0053,East,Bhubaneswar,Social Media,Electronics,USB-C Hub,4,4468.53,0.08,12869.37,Credit Card,Delivered
+ORD-00498,2025-04-07,CUST-0159,East,Kolkata,Mobile App,Beauty,Hair Serum,3,1425.98,0.0,1796.73,Cash on Delivery,Delivered
+ORD-00499,2025-05-20,CUST-0003,South,Kochi,Social Media,Beauty,Moisturizer,5,1603.55,0.02,3367.45,Credit Card,Delivered
+ORD-00500,2025-09-13,CUST-0180,North,Jaipur,Marketplace,Books,Programming Book,5,1692.26,0.05,3807.58,Credit Card,Delivered
